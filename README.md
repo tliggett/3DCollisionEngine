@@ -8,6 +8,7 @@ high school, as all collisions must be calculated with no knowledge of any post-
 statistics. While the concepts I learned in AP Physics gave me the foundation to my 
 understanding of these concepts, the collision formulas I learned were rendered useless, and I 
 was forced to find answers elsewhere. This paper will describe these answers. 
+
 My coding is done in the Processing Developing Environment, created by Ben Fry and 
 Casey Reas. Processing libraries make animation easier and I would strongly recommend similar 
 libraries when working with advanced physics. Most of the physics used came from 
